@@ -129,3 +129,16 @@ footer {
 .button.primary {
   background-color: gold;
 }
+
+/* filter */
+
+.filter {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem grey solid;
+}
+.filter div {
+  flex: 1;
+}
